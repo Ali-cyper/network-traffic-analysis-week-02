@@ -1,8 +1,8 @@
 # Week 02 — Network Traffic Analysis (PCAP / Wireshark)
 
-[العربية](README.AR.md)
+[README.AR.md](README.AR.md)
 
-Part of the [SOC Investigation Curriculum](https://github.com/Ali-cyper/soc-investigation-curriculum) · Previous: [Week 01 — Windows Event Logs](https://github.com/Ali-cyper/windows-event-log-investigation-week-01)
+· Previous: [Week 01 — Windows Event Logs](https://github.com/Ali-cyper/windows-event-log-investigation-week-01)
 
 ## Summary
 
