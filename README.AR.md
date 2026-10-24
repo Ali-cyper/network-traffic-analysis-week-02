@@ -2,7 +2,7 @@
 
 # الأسبوع الثاني — تحليل حركة الشبكة (PCAP / Wireshark)
 
-[English](README.md) · جزء من [منهج SOC Investigation](https://github.com/Ali-cyper/soc-investigation-curriculum) · السابق: [الأسبوع الأول — Windows Event Logs](https://github.com/Ali-cyper/windows-event-log-investigation-week-01)
+[English](README.md) · جزء من منهج SOC Investigation الخاص بي · السابق: [الأسبوع الأول — Windows Event Logs](https://github.com/Ali-cyper/windows-event-log-investigation-week-01)
 
 ## الملخص
 
